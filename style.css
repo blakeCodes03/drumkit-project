@@ -1,0 +1,73 @@
+body{
+    background-color: #122D3A;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 500;
+    color: #fff;
+}
+#set{    
+    text-align: center;
+    font-size: 2rem;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.4;
+}
+button{    
+    width: 2em;
+    height: 2em;    
+    margin: 20px;
+    font-size: 3rem;
+    font-style: italic;
+    color: brown;
+    border-style: ridge;
+    padding: 0.5em;
+}
+.w{
+    background-image: url("images/cymbal.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+    
+}
+.a{
+    background-image: url("images/tom-1.jpeg");    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;     
+}
+.s{
+    background-image: url("images/tom-2.jpeg");    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+.d{
+    background-image: url("images/tom-3.jpeg");    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+.j{
+    background-image: url("images/tom-4.jpeg");    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+.k{
+    background-image: url("images/Bass-drum.jpeg");    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+.button-clicked{
+    color: white;
+}
